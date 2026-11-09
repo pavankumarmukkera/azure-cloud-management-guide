@@ -86,3 +86,16 @@ This guide is released under the **MIT License** – free to use and share with 
 
 <p align="center">⭐ If you found this helpful, please star this repo and share it with your college community!</p>
 <p align="center">💻 Created & Maintained by <a href="https://github.com/pavankumarmukkera">Pavan Kumar Mukkera</a></p>
+
+---
+
+## Microsoft Power Platform Integration Ideas
+
+**Proposed enhancement:** Azure resource request and approval automation using Power Automate
+
+This repository also contains Power Platform learning
+examples and design documentation. These additions are
+concepts, not completed or deployed integrations.
+
+See [Power Platform Documentation](power-platform/README.md).
+
